@@ -1,0 +1,12 @@
+Region,KV,Overhead Bin,Miles Bin,Duration Bin,Outage Cause
+Mountain,4,High,Short,Severe,OH Equipment Failure
+Coastal,12,Medium,Short,Severe,Other
+Desert,16,High,Long,Short,Third Party
+North,16,Medium,Medium,Moderate,OH Equipment Failure
+Coastal,12,Medium,Very Long,Short,UG Equipment Failure
+Coastal,12,Medium,Very Long,Long,Animal
+North,16,Medium,Medium,Long,Weather
+Mountain,16,Medium,Very Long,Severe,Operation
+Desert,16,Medium,Long,Short,UG Equipment Failure
+Coastal,12,High,Short,Moderate,Vegetation
+Coastal,12,Medium,Very Long,Long,Third Party

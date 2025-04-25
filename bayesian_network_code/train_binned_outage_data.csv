@@ -1,0 +1,58 @@
+Region,KV,Overhead Bin,Miles Bin,Duration Bin,Outage Cause
+Mountain,16,Medium,Very Long,Short,Weather
+Mountain,16,Medium,Very Long,Short,Weather
+Coastal,12,Medium,Very Long,Long,OH Equipment Failure
+North,16,Medium,Medium,Moderate,Vegetation
+Mountain,16,Medium,Long,Moderate,Third Party
+Mountain,16,Medium,Very Long,Long,Weather
+Coastal,12,Medium,Short,Moderate,UG Equipment Failure
+North,4,High,Medium,Short,OH Equipment Failure
+Desert,16,Low,Medium,Moderate,UG Equipment Failure
+North,12,Low,Medium,Severe,Animal
+Desert,16,Low,Medium,Short,Other
+North,4,High,Medium,Moderate,Other
+North,16,Medium,Medium,Moderate,OH Equipment Failure
+North,12,Low,Medium,Severe,Third Party
+Mountain,16,Medium,Long,Severe,UG Equipment Failure
+Mountain,16,Medium,Long,Severe,Third Party
+Desert,16,High,Long,Long,Weather
+Desert,16,High,Very Long,Moderate,Animal
+Mountain,4,High,Short,Short,Other
+Desert,16,Low,Medium,Long,Other
+North,16,Medium,Medium,Long,OH Equipment Failure
+Coastal,12,Medium,Short,Short,UG Equipment Failure
+Mountain,16,Medium,Long,Long,UG Equipment Failure
+Coastal,12,Medium,Short,Severe,Weather
+North,12,High,Short,Moderate,UG Equipment Failure
+Desert,16,Low,Medium,Short,OH Equipment Failure
+Desert,4,Medium,Short,Severe,Operation
+Coastal,12,Medium,Very Long,Moderate,Other
+North,4,High,Medium,Moderate,Vegetation
+Coastal,12,Medium,Short,Severe,Other
+Mountain,16,Medium,Very Long,Long,Third Party
+Coastal,4,High,Medium,Severe,Other
+North,12,Medium,Very Long,Long,UG Equipment Failure
+Desert,16,Low,Medium,Long,Weather
+North,16,Medium,Medium,Severe,Operation
+Coastal,12,High,Short,Severe,Third Party
+North,4,High,Medium,Long,Weather
+Coastal,4,High,Medium,Moderate,Weather
+Mountain,16,Medium,Very Long,Short,OH Equipment Failure
+North,12,High,Short,Short,UG Equipment Failure
+North,16,Medium,Medium,Severe,Third Party
+Coastal,12,Medium,Short,Long,Operation
+Mountain,16,Medium,Long,Long,Third Party
+Mountain,16,Medium,Long,Moderate,Vegetation
+Coastal,12,Medium,Short,Long,UG Equipment Failure
+Desert,16,High,Long,Short,OH Equipment Failure
+North,16,Medium,Medium,Severe,Animal
+North,16,Medium,Medium,Short,OH Equipment Failure
+North,12,Medium,Very Long,Short,UG Equipment Failure
+North,12,High,Short,Short,UG Equipment Failure
+Mountain,16,Medium,Long,Moderate,Operation
+North,4,High,Medium,Long,Operation
+Mountain,16,Medium,Long,Severe,UG Equipment Failure
+Desert,4,Medium,Short,Long,Vegetation
+Desert,16,Low,Medium,Moderate,OH Equipment Failure
+North,12,Medium,Very Long,Moderate,UG Equipment Failure
+Desert,16,Low,Medium,Short,OH Equipment Failure
